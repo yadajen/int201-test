@@ -44,9 +44,9 @@ $git add .
 2. git commit<br>
 $git commit -m "message"  
         #ยืนยันการเปลี่ยนแปลงพร้อมข้อความ
-3. git push
+3. git push 
 4. แล้วไปดูที่ git action
-5. แล้วไปดูที่ Autograding complete
+6. แล้วไปดูที่ Autograding complete
 
 
  https://developer.mozilla.org/en-US/ 
